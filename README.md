@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumansuyash
 - 👀 I’m interested in building things for humanity
-- 🌱 I’m currently learning Docker
-- 💞️ I’m looking to collaborate on DevOps projects
+- 🌱 I’m currently practicing Java and Docker
+- 💞️ I’m looking to collaborate on Java Projects
 - 📫 Reach me at sumansuyash@gmail.com
 
 <!---
